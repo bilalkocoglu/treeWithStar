@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/bilalkocoglu/tests/TreeWithStarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="88">
+              <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,8 +63,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/bilalkocoglu/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bilalkocoglu/Draw.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/bilalkocoglu/tests/TreeWithStarTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bilalkocoglu/TreeWithStar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bilalkocoglu/tests/TreeWithStarTest.java" />
       </list>
     </option>
   </component>
@@ -151,7 +151,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552058815306" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552059055092" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -281,14 +281,11 @@
       <updated>1552051677087</updated>
       <workItem from="1552051682644" duration="718000" />
       <workItem from="1552052499348" duration="4883000" />
-      <workItem from="1552058145333" duration="495000" />
+      <workItem from="1552058145333" duration="905000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TreeWithStarTest_enBuyukBul - 2019.03.08 at 17h 18m 58s.xml">
-      <configuration name="TreeWithStarTest.enBuyukBul" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TreeWithStarTest_enBuyukBul - 2019.03.08 at 17h 19m 40s.xml">
       <configuration name="TreeWithStarTest.enBuyukBul" configurationId="JUnit" />
     </history-entry>
@@ -316,15 +313,17 @@
     <history-entry file="TreeWithStarTest_treeTest - 2019.03.08 at 18h 25m 00s.xml">
       <configuration name="TreeWithStarTest.treeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TreeWithStarTest_treeTest - 2019.03.08 at 18h 25m 52s.xml">
+      <configuration name="TreeWithStarTest.treeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6096000" />
+    <option name="totallyTimeSpent" value="6506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +332,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.50325733" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.50325733" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -376,8 +375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/bilalkocoglu/tests/TreeWithStarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="88">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
