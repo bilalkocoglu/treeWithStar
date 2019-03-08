@@ -5,9 +5,10 @@ public class TreeWithStar {
        return row-1;
     }
 
-    public void drawTree(int rowCount){
+    public String drawTree(int rowCount){
+        String tree = "";
         if (rowCount<1){
-            System.out.println("...");
+            tree+="...";
             System.exit(0);
         }
 
@@ -17,19 +18,21 @@ public class TreeWithStar {
 
         for(int i = 1; i<=rowCount; i++){
             for(int k=0;k<firstSpace;k++){
-                System.out.print(" ");
+                tree+=" ";
             }
             for(int j=0; j<startStar; j++){
-                System.out.print("*");
+                tree+="*";
             }
             startStar+=2;
             firstSpace--;
-            System.out.println();
+            if (!((i+1)>rowCount))
+                tree+="\n";
         }
+        return tree;
     }
 
     public static void main(String[]args){
         TreeWithStar treeWithStar = new TreeWithStar();
-        treeWithStar.drawTree(50);
+        System.out.println(treeWithStar.drawTree(50));
     }
 }

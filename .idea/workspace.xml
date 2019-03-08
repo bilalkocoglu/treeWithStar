@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0500b39f-9107-4ff4-8b7c-191f1ca73123" name="Default Changelist" comment="" />
+    <list default="true" id="0500b39f-9107-4ff4-8b7c-191f1ca73123" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bilalkocoglu/TreeWithStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bilalkocoglu/TreeWithStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bilalkocoglu/tests/TreeWithStarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bilalkocoglu/tests/TreeWithStarTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +23,29 @@
     <option name="myElementSize" value="189" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bilalkocoglu/TreeWithStar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bilalkocoglu/tests/TreeWithStarTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,6 +53,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -51,12 +80,13 @@
     <option name="width" value="1366" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,13 +145,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552057346522" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552058815306" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -140,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TreeWithStar">
+  <component name="RunManager" selected="JUnit.TreeWithStarTest.treeTest">
     <configuration name="TreeWithStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bilalkocoglu.TreeWithStar" />
       <module name="TreeWithStar" />
@@ -213,8 +243,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeWithStarTest.treeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TreeWithStar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bilalkocoglu.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bilalkocoglu.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.bilalkocoglu.tests.TreeWithStarTest" />
+      <option name="METHOD_NAME" value="treeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TreeWithStarTest.treeTest" />
         <item itemvalue="Application.TreeWithStar" />
         <item itemvalue="JUnit.TreeWithStarTest.startSpaceTest" />
         <item itemvalue="JUnit.TreeWithStarTest.maxStarTest" />
@@ -234,19 +281,11 @@
       <updated>1552051677087</updated>
       <workItem from="1552051682644" duration="718000" />
       <workItem from="1552052499348" duration="4883000" />
+      <workItem from="1552058145333" duration="495000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_TreeWithStar - 2019.03.08 at 17h 17m 33s.xml">
-      <configuration name="All in TreeWithStar" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_TreeWithStar - 2019.03.08 at 17h 17m 56s.xml">
-      <configuration name="All in TreeWithStar" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TreeWithStarTest_enBuyukBul - 2019.03.08 at 17h 18m 37s.xml">
-      <configuration name="TreeWithStarTest.enBuyukBul" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TreeWithStarTest_enBuyukBul - 2019.03.08 at 17h 18m 58s.xml">
       <configuration name="TreeWithStarTest.enBuyukBul" configurationId="JUnit" />
     </history-entry>
@@ -268,14 +307,24 @@
     <history-entry file="TreeWithStarTest_startSpaceTest - 2019.03.08 at 18h 02m 12s.xml">
       <configuration name="TreeWithStarTest.startSpaceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TreeWithStarTest_treeTest - 2019.03.08 at 18h 21m 34s.xml">
+      <configuration name="TreeWithStarTest.treeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeWithStarTest_treeTest - 2019.03.08 at 18h 24m 08s.xml">
+      <configuration name="TreeWithStarTest.treeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TreeWithStarTest_treeTest - 2019.03.08 at 18h 25m 00s.xml">
+      <configuration name="TreeWithStarTest.treeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5601000" />
+    <option name="totallyTimeSpent" value="6096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,7 +333,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5048701" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50325733" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -294,8 +343,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32954547" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -305,37 +353,34 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32954547" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/bilalkocoglu/tests/TreeWithStarTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bilalkocoglu/TreeWithStar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-          <folding>
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="352">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bilalkocoglu/tests/TreeWithStarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="427">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -32,4 +32,17 @@ public class TreeWithStarTest {
         Assert.assertEquals(4, treeWithStar.calculateFirstSpace(5));
         Assert.assertEquals(5, treeWithStar.calculateFirstSpace(6));
     }
+
+    @Test
+    public void treeTest(){
+        String tree = "*";
+        Assert.assertEquals(tree, treeWithStar.drawTree(1));
+        tree = " *\n***";
+        Assert.assertEquals(tree, treeWithStar.drawTree(2));
+        tree = "  *\n ***\n*****";
+        Assert.assertEquals(tree, treeWithStar.drawTree(3));
+        tree = "   *\n  ***\n *****\n*******";
+        Assert.assertEquals(tree, treeWithStar.drawTree(4));
+
+    }
 }
